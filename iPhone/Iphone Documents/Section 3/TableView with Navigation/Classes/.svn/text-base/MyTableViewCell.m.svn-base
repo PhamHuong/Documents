@@ -1,0 +1,44 @@
+//
+//  MyTableViewCell.m
+//  TableView with Navigation
+//
+//  Created by Jonathan Lehr on 6/25/09.
+//  Copyright 2009 __MyCompanyName__. All rights reserved.
+//
+#import "MyTableViewCell.h"
+
+@implementation MyTableViewCell
+
+@synthesize book = _book;
+
+- (void)drawRect:(CGRect)rect
+{
+    [super drawRect:rect];
+    
+    [[UIColor blackColor] set];
+    
+    UIFont *titleFont = [UIFont fontWithName:@"TimesNewRomanPS-BoldItalicMT"
+                                        size:20.0];
+    
+    [[_book title] drawAtPoint:CGPointMake(12.0, 10.0)
+                      withFont:titleFont];
+    
+    UIFont *yearFont = [UIFont fontWithName:@"TimesNewRomanPSMT"
+                                        size:16.0];
+    
+    [[UIColor blueColor] set];
+    
+    NSString *year = [NSString stringWithFormat:@"%d", [_book year]];
+    [year drawAtPoint:CGPointMake(12.0, 34.0)
+             withFont:yearFont];
+    
+    [[UIColor darkGrayColor] set];
+    
+    UIFont *authorFont = [UIFont fontWithName:@"TimesNewRomanPS-BoldMT"
+                                            size:16.0];
+    
+    [[_book author] drawAtPoint:CGPointMake(60.0, 34.0)
+                       withFont:authorFont];
+}
+
+@end

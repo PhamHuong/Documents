@@ -1,0 +1,18 @@
+//
+//  MyTableViewCell.h
+//  TableView with Navigation
+//
+//  Created by Jonathan Lehr on 6/25/09.
+//  Copyright 2009 __MyCompanyName__. All rights reserved.
+//
+#import <UIKit/UIKit.h>
+#import "Book.h"
+
+@interface MyTableViewCell : UITableViewCell
+{
+    Book *_book;
+}
+
+@property (nonatomic, retain) Book *book;
+
+@end

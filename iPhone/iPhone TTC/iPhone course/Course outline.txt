@@ -1,0 +1,37 @@
+Week 1: Intro to iPhone Programming
+Introduction to Mobile Programming
+Objective C Intro, Types
+Xcode Demo
+Memory Management in Objective C
+Building an iPhone Application
+
+ 
+Week 2: Programming for the iPhone Part 1 
+MVC in iPhone Development
+Nib Files
+Interface Builder Demo
+Controls/Target Action and Demo
+Views
+Drawing
+View Controllers and Interface Rotation Demo
+Touch Events/Multi-touch
+Touch Demo
+ 
+Week 3: Programming for the iPhone Part 2
+Navigating in an App
+View Flip Demo
+Accelerometer and Demo
+Camera
+Keyboard
+Basic Audio
+Sample Application Demo
+ 
+Week 4: Programming for the iPhone Part 3 and Deployment
+Data on the iPhone
+GPS
+Performance and Power Management
+iPad: What's the same, what's different
+iPhone 4 Rumors
+iPhone 4 OS Sneak Peak
+Submitting to the App Store
+iTunes Connect

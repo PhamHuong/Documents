@@ -1,0 +1,63 @@
+iPhone/iPad (iOS) Application Development
+
+Dates to be announced
+
+$799 US Early-Bird Special Price
+
+This class helps you take the leap into the world of iPhone and iPad software development. Whether you want to build your own iOS applications or you want to write iPhone applications for others, this class is for you!
+
+New: Students will receive a copy of our MMiOS development classes which allows you to develop your iOS applications more quickly and solidly!
+
+This on-line class is taught by Kevin McNeish, creator of iElectionDay, an iOS app Voted iPad App of the Week! and a popular mobile development speaker! He is also chief architect of the upcoming MMiOS App Framework and the MM .NET Application Framework. He is an eight-time MVP recipient and a well-known speaker at conferences and user groups
+
+What Attendees Have Said
+
+The content was excellent, with a blend of theory (reasons for specific approach), real-world examples and tips (for what works, and what not to do).
+
+At the end of three days, your voice and spirits were just as high as they were at the beginning, and in my experience, that's a rare occurrence!
+
+Next time someone asks me where they can get an iPhone/iPad App developed, I'll be glad to give them your name, and I have real confidence that they will be happy with the referral - Mark Dean
+
+If You Can't Attend the Class, just Purchase the Recording
+
+We use Camtasia to create high-quality recordings of the entire training class. Even if you can't attend the live class, if you sign up for the class you will still get the full recording which you can review at your leisure. Students who sign up for the class but do not attend are free to attend another one of our on-line iPhone classes any time in the future.
+
+Register Now!
+  	
+
+Introduction to Objective-C
+	
+
+This session compares the Objective-C language with the .NET C# language, focusing mostly on the object-oriented language features including declaring classes, inheritance, interfaces, polymorphism, memory management, and design patterns such as Model-View-Controller and Delegation  
+
+Introduction to XCode and Interface Builder
+	
+
+XCode is Apple's premier development tool for creating iOS applications. This session teaches you the essentials for using the XCode development environment for building Apps for both iPhone/iPad devices. You will also learn best practices for using Apple's Interface Builder to create a compelling user interface experience that follow Apple’s iOS Human Interface Guidelines. This session is also filled with great tips for overcoming common obstacles encountered by developers new to the iOS platform
+
+Introduction to the Cocoa Touch Framework 	The Cocoa Touch Framework is the equivalent of the .NET Framework. This session provides an overview of the classes and APIs you will use in building your iPhone applications
+
+iOS Application Architecture
+	When it comes to smaller iPhone Apps that can be created relatively quickly, many developers abandon solid principles of good architecture and object-oriented programming. This session provides an overview of best practices in creating iOS applications with architectures that are flexible, extensible, and easy to maintain--especially since most iOS applications are continually revised with new features requested by users.
+
+Building View Controllers
+
+	This session provides practical examples of how to build applications that use the standard iPhone navigation bars and tab bars. In the process, you will learn more about view controllers, how to support rotation of the iPhone device, navigating between views, selecting, adding, deleting, and moving items.
+
+Working with Table Views
+	Table views are used to display lists of data in iPhone applications. This session helps you make the best use of grouped and indexed tables, search bars, as well as navigation controllers--all the elements necessary for presenting your users with lists of usable, intuitive information.
+ 
+
+Building Universal Applications
+	Most of the samples on Apple's web sites and support forums tend to hard-code for iPhone development. This session highlights the steps you can take to create a universal application--one that works well and looks great on both the iPhone/iPod and iPad devices
+
+Persisting Data
+	This session covers the basics of persisting data on the iPhone by means of property lists, object archives, and Core Data with Sqlite.
+ 
+Accessing the Web 	
+
+Many iOS applications need to interact with the web to provide the most up-to-date information as well as the best user experience. This session demonstrates best practices in using the UIWebView control, then moves into accessing Web Services, and REST-based services (GET / POST / PUT / DELETE)
+ 
+Getting your App ready for the App Store 	
+
+It's one thing to create a sample app or test application for your own use. It's a completely different experience creating an App that will be accepted by Apple's reviewers and do well in the App store. This session guides you through real world experience on how to avoid the pitfalls of getting your App rejected as well as the steps you should take to design, code, and test your application so it passes App store review with flying colors as well as steps you can so your users rate your App well!
