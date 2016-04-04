@@ -1,0 +1,5 @@
+To run the apps:
+1) Unzip
+2) Browse to one of the folders and double click on .xproj file (assuming the iPhone SDK/Xcode is installed)
+3) Choose iPhone 3.0 Simulator (or choose device if your device provisioning profile is set up)
+4) Click on Build/Run (or click F5)

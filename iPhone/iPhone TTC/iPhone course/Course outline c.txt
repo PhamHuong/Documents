@@ -1,0 +1,74 @@
+iPhone Application Development Course
+    * Learn how to use the major tools and APIs in the iPhone SDK 3.0, and how they all fit together, to develop mobile applications like the pros.
+    * Get hands-on coding experience and answers to your questions so you can start creating your own iPhone application with confidence.
+    * Save time and frustration by focusing exclusively on iPhone development with expert guidance. 
+
+You'll come away from this Studio knowing Interface Builder, Xcode, Objective-C, Cocoa Touch programming, and the APIs included in the iPhone SDK 3.0.
+
+You'll not just know how to use these powerful tools, you'll also understand why things are the way they are. You'll be ready to create your first iPhone application, or improve upon your existing application.
+
+Course Schedules:
+
+Mon-Thurs 	11:00am-2:00pm	January 25th-February 8th
+Sat-Sun	1:00pm-5:30pm	January 30th-February 21st
+
+What Will I Learn?
+
+How to create full-featured iPhone applications from scratch. Through a series of guided instruction, hands-on coding exercises, and discussion, you'll learn the fundamentals of creating iPhone applications that look and function like some of the apps already on your iPhone.
+
+Topics include:
+
+    * Intro to Objective-C: Objective-C is the object-oriented programming language that you use to write iPhone applications. While this isn't a comprehensive course on Objective-C, you'll learn enough to jump right into iPhone development: classes, objects, properties, message sending, memory management, and the Foundation classes.
+
+    * Xcode and Interface Builder: Xcode is the IDE used for iPhone development and Interface Builder is the visual tool for designing your application's user interface. You'll learn how to use both of them to work more efficiently.
+
+    * Cocoa Touch: Cocoa Touch is a set of object-oriented libraries for creating applications that run on the iPhone and iPod Touch. Cocoa Touch is based on Cocoa, and embodies various object-oriented design patterns also used for programming on the Mac. Understanding those patterns is essential to becoming a competent iPhone developer. You'll learn the benefits of model-view-controller (MVC), delegation, notifications, and other patterns in Cocoa Touch.
+
+    * Views and Their Controllers: Views represent the user interface of your application, and all the dynamic aspects of a view are handled by a view controller. View controllers are the hub of the model-view-controller (MVC) design. You'll learn how to design views and wire them up to view controllers with outlets and actions.
+
+    * Navigation: Efficient and consistent navigation is especially important on a mobile device. You'll learn how to use navigation and tab bar controllers to improve the user experience.
+
+    * Table Views: Table views are central to many iPhone applications, such as the contact manager. You'll learn how to organize data in tables, insert and delete table data, and navigate between tables using navigation controllers.
+
+    * Keyboard Input: The virtual keyboard is unique to the iPhone and it's important that your application makes it as easy as possible to enter text. You'll learn how to use delegates to design and handle keyboard input for an ideal user experience.
+
+    * Core Data: Core Data is a new feature of the iPhone 3.0 OS that offers an elegant solution to data modeling and persistence. You'll learn how to get started managing, modeling, and persisting application data using Core Data.
+
+    * Custom Drawing: Graphics are an important element of your application's user interface. Static images only take you so far. Set your application apart from the crowd by learning how to create custom views drawn with Core Graphics.
+
+    * Touch Events: Take advantage of the touch screen by learning how to handle touch events and multi-touch gestures.
+
+    * Core Animation: Add that extra "wow factor" to your application and give users visual feedback through rich animations by learning how to use basic animation layers and timing functions.
+
+    * Photos: Personalize your application by learning how to access a user's existing photos from your application.
+
+    * Networking: Extend the reach of your application by learning how to communicate with external web services.
+
+    * Performance and Debugging: Learn how to use power tools, including Instruments and gdb, to detect memory leaks and profile the performance of your application.
+
+    * Learn practical tips, tricks, and techniques used by the experts to work efficiently and create full-featured iPhone applications. 
+
+In addition to the prepared topics, you'll have time to ask questions and spark discussions with other iPhone developers.
+
+Who’s It For?
+
+Experienced programmers. This Studio will be a good fit for you if...
+
+    * You have a programming background in an object-oriented language (Java, C#, Ruby, Python, etc.)
+    * You're new to iPhone development, or you've started building an iPhone application and need help putting all the pieces together. 
+
+You can prepare for this course by assessing your skills and working through some of the resources listed in our iPhone Developer's Roadmap. In general, this Studio is not a good fit for folks who are new to object-oriented programming in general.
+
+What's a Studio Like?
+
+Interactive Learning. You'll learn in a significantly different way in a Studio than by reading through the books. Attending a Studio complements what you may have read, but in a hands-on, collaborative environment where you'll:
+
+    * get your questions answered by the experts and your peers
+
+    * learn through hands-on programming exercises
+
+    * discuss up-to-date topics, tips, and tricks
+
+    * discover new techniques in live coding sessions
+
+    * reinforce the concepts you've learned in the books 

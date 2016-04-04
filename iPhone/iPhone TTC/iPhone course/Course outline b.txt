@@ -1,0 +1,73 @@
+Course Outline
+
+This course is taught over five consecutive days, beginning with an introduction to the iPhone SDK (Software Development Kit) and finishing with optimising profit made from App sales.
+
+Please note that this outline is subject to change.
+Day 1
+
+    * Introduction to the iPhone/iPad SDK
+          o iPhone Developer Portal: Setting up your environment (certificates, provisioning profiles)
+          o Interface Builder: Creating a user interface for an iPhone App
+          o Xcode: Putting code behind your interface, and debugging that code
+    * Introduction to Objective-C: the language used to develop all Apps
+          o How are classes defined? How do Objective-C objects interact?
+          o What data types are available?
+          o Memory-management features available in Objective-C (and iPhone limitations)
+          o Objective-C 2.0 features, including properties
+          o Key-Value Coding/Key-Value Observing
+
+Day 2
+
+    * Introduction to Cocoa Touch
+          o Architecture of iPhone application interfaces: windows, applications, views/view controllers, navigation bars/navigation controllers, bar buttons
+          o Exploration of various user interface controls available for use, from simple text boxes and buttons to more complex controls such as table and web views
+          o Interacting with controls: delegates and data sources
+    * Interacting with the user’s data
+          o Picking people from the address book
+          o Picking pictures from the photo library… or creating a new picture with the iPhone’s camera
+          o Picking songs from the iPod library
+
+Day 3
+
+    * Important basic data structures: Foundation framework
+          o Strings
+          o Numbers
+          o Enumeration
+          o Dates/Times
+          o Timers/Threads
+          o Data Streams
+    * iPhone/iPad hardware interaction
+          o Detecting device orientation and responding to movement with the accelerator
+          o Listening for sound
+          o Making sounds
+          o Geo-tagging: finding the device’s location/orientation in the world (GPS and magnetometer/compass with Core Location) and map it with Map Kit
+          o Creating multi-touch interfaces
+
+Day 4
+
+    * Connecting to other iPhones and computers
+          o Discovering local devices
+          o Socket programming with Core Foundation Network
+          o Using Game Kit to communicate with other iPhones—game and voice data
+          o Getting notified of events even when your app isn’t running with Push Notification
+    * The Media Layer
+          o Playing back audio and video
+          o Drawing 2D graphics with Quartz
+          o Introduction to 3D graphics programming
+          o Animated interfaces with Core Animation
+
+Day 5
+
+    * Performance profiling and optimisation: making your App fast and efficient
+    * From iPhone to iPad
+          o Creating an iPad App
+          o Converting to a Universal App
+          o Split Views and Popovers
+    * Going live with iTunes Connect: Getting your App on the App Store
+    * Selling your App:
+          o Choosing the right price
+          o Getting people to look at it
+          o Maximising your cut of the sales
+          o Selling on the global market
+          o Utilising micro-transactions to get profit beyond initial App Store sales
+
