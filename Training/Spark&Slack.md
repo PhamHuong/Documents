@@ -8,8 +8,8 @@ continuous query
 unified ingeestion/ management/streaming....
 
 # Slack bot
-API token: xoxp-166162834048-166958490869-166928068770-f5644edfcf3e60570c05eae16591249c
-
+API token: xoxb-166191594768-yZSwuC8EVx7lbmy8YRIITlYu
+xoxb-166099579280-QbnxxZE1OJk4JpynmzeDFEcz
 https://e42-bot.slack.com 
 https://api.slack.com/apps/A4W4U6N8Y/
 e42Bot : clientId: 166162834048.166164226304 / Client secret: ba042c07fb3d42084beca3301e570619  
@@ -22,3 +22,4 @@ Embeddable Slack Button:
 https://github.com/slackapi/node-slack-sdk
 
 testbot: api-token: xoxb-166191594768-4aS7hGa10R0yvYvYzwS9ZbOB
+docker-compose -f docker-compose.yml up --build
